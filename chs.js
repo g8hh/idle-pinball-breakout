@@ -160,7 +160,7 @@ var cnItems = {
     "Not enough gem to unlock a slot": "没有足够的宝石来解锁插槽",
     "Play on Mobile": "在手机上玩",
     "worth of booster, it will cost the ingredients listed above": "助推器的价值，它将花费上面列出的成分",
-    "You can play Idle Pinball Breakout on iOS and Android now!": "您现在可以在 iOS 和 Android 上玩 Idle Pinball Breakout！",
+    "You can play Idle Pinball Breakout on iOS and Android now!": "您现在可以在 iOS 和 Android 上玩 弹珠突围放置！",
     "💡 Upgrading a ball's physics has a big impact on its performance": "💡 升级球的物理特性对其性能有很大影响",
     "Welcome to Level 2, here's some gold to help you get ahead!": "欢迎来到 2 级，这里有一些金币可以帮助您取得成功！",
     "Up!": "升级了！",
